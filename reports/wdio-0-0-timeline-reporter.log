@@ -1,0 +1,210 @@
+{
+  "start": "2023-05-28T19:02:35.270Z",
+  "end": "2023-05-28T19:10:32.777Z",
+  "capabilities": {
+    "platform": "LINUX",
+    "webStorageEnabled": false,
+    "takesScreenshot": true,
+    "javascriptEnabled": true,
+    "databaseEnabled": false,
+    "networkConnectionEnabled": true,
+    "locationContextEnabled": false,
+    "warnings": {},
+    "desired": {
+      "platformName": "Android",
+      "deviceName": "Aryan",
+      "automationName": "UiAutomator2",
+      "appPackage": "org.khanacademy.android",
+      "appActivity": "org.khanacademy.android.ui.library.MainActivity"
+    },
+    "platformName": "Android",
+    "deviceName": "emulator-5554",
+    "automationName": "UiAutomator2",
+    "appPackage": "org.khanacademy.android",
+    "appActivity": "org.khanacademy.android.ui.library.MainActivity",
+    "deviceUDID": "emulator-5554",
+    "deviceApiLevel": 26,
+    "platformVersion": "8.0.0",
+    "deviceScreenSize": "1080x2220",
+    "deviceScreenDensity": 440,
+    "deviceModel": "Android SDK built for x86",
+    "deviceManufacturer": "Google",
+    "pixelRatio": 2.75,
+    "statBarHeight": 66,
+    "viewportRect": {
+      "left": 0,
+      "top": 66,
+      "width": 1080,
+      "height": 2022
+    },
+    "sessionId": "0dd0fded-2359-4d78-bf8c-207da47e60ca"
+  },
+  "host": "127.0.0.1",
+  "port": 4723,
+  "baseUrl": "",
+  "framework": "mocha",
+  "duration": 477507,
+  "suites": [
+    {
+      "title": "This for Khan Academy",
+      "duration": 475819,
+      "start": "2023-05-28T19:02:35.293Z",
+      "end": "2023-05-28T19:10:31.112Z",
+      "tests": [
+        {
+          "title": "Explore_Bookmarks",
+          "start": "2023-05-28T19:02:35.294Z",
+          "end": "2023-05-28T19:03:43.382Z",
+          "duration": 68088,
+          "state": "passed",
+          "screenshots": [
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300564824.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300566525.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300567678.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300568507.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300582684.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300583638.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300590716.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300591391.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300606919.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300607597.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300619961.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300620590.jpeg"
+          ]
+        },
+        {
+          "title": "Verifying_Deleting_Bookmarks",
+          "start": "2023-05-28T19:03:43.389Z",
+          "end": "2023-05-28T19:04:10.248Z",
+          "duration": 26859,
+          "state": "passed",
+          "screenshots": [
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300624029.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300638534.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300639208.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300640692.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300641287.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300643003.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300643549.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300645253.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300645887.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300647549.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300648101.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300650009.jpeg"
+          ]
+        },
+        {
+          "title": "Video_recentLesson",
+          "start": "2023-05-28T19:04:10.251Z",
+          "end": "2023-05-28T19:04:55.906Z",
+          "duration": 45655,
+          "state": "passed",
+          "screenshots": [
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300650683.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300651280.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300652505.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300653179.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300654033.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300654730.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300693944.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300695310.jpeg"
+          ]
+        },
+        {
+          "title": "Setting",
+          "start": "2023-05-28T19:04:55.912Z",
+          "end": "2023-05-28T19:05:58.704Z",
+          "duration": 62792,
+          "state": "passed",
+          "screenshots": [
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300697078.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300703661.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300704216.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300705634.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300706381.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300707528.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300708243.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300709372.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300710150.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300711870.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300713492.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300714825.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300715601.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300716888.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300717565.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300747831.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300748499.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300749997.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300750640.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300751705.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300752502.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300753303.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300754210.jpeg"
+          ]
+        },
+        {
+          "title": "Arts Humanities",
+          "start": "2023-05-28T19:05:58.711Z",
+          "end": "2023-05-28T19:08:11.913Z",
+          "duration": 133202,
+          "state": "passed",
+          "screenshots": [
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300759455.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300796666.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300797739.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300816167.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300817224.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300868434.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300869333.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300876413.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300877501.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300885059.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300886121.jpeg"
+          ]
+        },
+        {
+          "title": "App switch",
+          "start": "2023-05-28T19:08:11.918Z",
+          "end": "2023-05-28T19:10:27.075Z",
+          "duration": 135157,
+          "state": "passed",
+          "screenshots": [
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300892958.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300903386.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300905480.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300914511.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300915740.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300932588.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300933429.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300935917.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300936728.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300975863.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300977440.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300980251.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685300982274.jpeg"
+          ]
+        },
+        {
+          "title": "Closing",
+          "start": "2023-05-28T19:10:27.082Z",
+          "end": "2023-05-28T19:10:31.103Z",
+          "duration": 4021,
+          "state": "passed",
+          "screenshots": [
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685301028903.jpeg",
+            "D:\\SDET_Cypress_Project\\Khan-Academy-Testing_project\\reports\\file-1685301032401.jpeg"
+          ]
+        }
+      ],
+      "hooks": []
+    }
+  ],
+  "specs": [
+    "file:///D:/SDET_Cypress_Project/Khan-Academy-Testing_project/test/specs/example.e2e.js"
+  ],
+  "state": {
+    "passed": 7,
+    "failed": 0,
+    "skipped": 0
+  }
+}
